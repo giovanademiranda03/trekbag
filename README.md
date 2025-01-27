@@ -44,7 +44,7 @@ Follow the steps below to set up and run the project locally.
      npm install
     ```
 
-4. CStart the development server:
+4. Start the development server:
    ```bash
      npm run dev
     ```
@@ -60,7 +60,6 @@ Follow the steps below to set up and run the project locally.
   │   ├── store/           # Zustand state management
   │   ├── App.jsx          # Main application component
   │   ├── index.jsx        # Entry point
-  │   └── styles.css       # Application styles
   ├── public/              # Static assets
   ├── package.json         # Project dependencies and scripts
   └── README.md            # Project documentation
