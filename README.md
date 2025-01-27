@@ -13,7 +13,7 @@ TrekBag is a simple and efficient task management application built using **Reac
 - Reset the task list to its initial state.
 - Select all tasks with one action.
 
-🔧 Technologies Used
+## 🔧 Technologies Used
 
 - **React**: For building the user interface.
 - **Vite**: For a fast development environment.
